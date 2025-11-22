@@ -3,7 +3,7 @@
 <div align="center">
 <br />
 <a href="" target="_blank">
-<img width="1470" alt="AI Content" src="" /></a>
+<img width="1470" alt="AI Content" src="https://github.com/EDProgrammerist/Fullstack-creato-ai-platform/blob/master/public/Preview.png?raw=true" /></a>
 <br />
 <div>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs" />
